@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\UserTest::testSetIdGetId":4,"Tests\\UserTest::testSetPasswordGetPassword":4},"times":{"Tests\\UserTest::testEmpty":0,"Tests\\UserTest::testSetNameGetName":0.004,"Tests\\UserTest::testSetIdGetId":0,"Tests\\UserTest::testSetPasswordGetPassword":0,"Tests\\UserTest::testSetEmailGetEmail":0}}
